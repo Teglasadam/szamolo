@@ -4,6 +4,7 @@ const numberText = document.querySelector(".numberText");
 let number = 0;
 let x;
 
+
 let check = () => {
 	if (x == 0) {
 		numberText.style.color = "black";
